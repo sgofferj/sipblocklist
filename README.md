@@ -1,6 +1,6 @@
 # sipblocklist
 
-![Addresses: 287 ](https://img.shields.io/badge/Addresses-287-green)
+![Addresses: 301 ](https://img.shields.io/badge/Addresses-301-green)
 
 This blocklist was previously hosted on my website at https://www.gofferje.net.
 
